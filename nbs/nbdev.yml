@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-key-state-error"
+  site-url: "https://deven-gqc.github.io/test-key-state-error"
+  description: "reproduce key state error"
+  repo-branch: main
+  repo-url: "https://github.com/deven-gqc/test-key-state-error"
